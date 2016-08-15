@@ -4,3 +4,4 @@ A list of awesome style guides examples
 ## Style Guide
 
 * [BBC GEL](http://www.bbc.co.uk/gel), [Foundations] (http://www.bbc.co.uk/gel/guidelines/category/foundations), [Design Patterns] (http://www.bbc.co.uk/gel/guidelines/category/design-patterns)
+* [Microsoft Design & UI] (https://developer.microsoft.com/en-us/windows/design)
