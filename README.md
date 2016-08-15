@@ -7,3 +7,4 @@ A list of awesome style guides examples
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - “Every line of code should appear to be written by a single person, no matter the number of contributors.” —@mdo
 * [Code for america] (http://style.codeforamerica.org/)
 * [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) - Lonely Planet has a huge codebase and this ultimately dictates many of the decisions we make around the front end architecture and day-to-day feature development. 
+* [Guardian design language] (http://pasteup.guim.co.uk/) - Pasteup is a library of code to help you implement the Guardian’s design and interaction patterns on the web. It can be used in various ways, most simply by linking directly to a CDN hosted version, or if necessary pulling individual modules into your own project’s build process.
